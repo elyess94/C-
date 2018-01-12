@@ -1,4 +1,4 @@
-//DEDDOUCHE Elyess 
+//Elyess 
 // This line represents the preprocesseur directive. Its role is to load C ++ features to do certain actions
 #include <iostream>
 #include <cmath>
